@@ -22,4 +22,4 @@ bStop.addEventListener("click", () => {
   bStop.disabled = true;
 });
 
-// ghggdfgg,,.
+// ghgkjhhggdfgg,,.
